@@ -26,3 +26,4 @@ def setGlobal(value=None):
        metaslash = value
        useless = Nothing(5)
        print 'a useless value is:', useless.valeu
+just testing 1910
