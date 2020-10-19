@@ -1,5 +1,6 @@
    #! /usr/bin/env python
  #'Example errors caught by PyChecker'
+test1910
 import string
 metaslash = 1
 def printNames():
