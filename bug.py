@@ -28,3 +28,4 @@ def setGlobal(value=None):
        print 'a useless value is:', useless.valeu
 just testing 1910
 Test 2
+test 3
