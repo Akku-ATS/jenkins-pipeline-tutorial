@@ -31,3 +31,8 @@ class DuckDuckGoResultPage:
   def search_input_value(self):
     search_input = self.browser.find_element(*self.SEARCH_INPUT)
     return search_input.get_attribute('value')
+  def setGlobal(value=None):
+       print 'Old MetaSlash value is:', metaslash
+       metaslash = value
+       useless = Nothing(5)
+       print 'a useless value is:', useless.valeu
