@@ -29,6 +29,7 @@ def setGlobal(value=None):
 just testing 1910
 Test 2
 test 3
+test 211020
 
 def setGlobal(value=None):
        print 'Old MetaSlash value is:', metaslash
